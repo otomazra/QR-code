@@ -21,7 +21,7 @@ This is a Qr code web page where you can scan qr code by your phone and enter th
 ### Links
 
 - Solution URL: [QR-code GitHub Repository](https://github.com/otomazra/QR-code)
-- Live Site URL: [QR-code GitHub Repository](https://otomazra.github.io/QR-code)
+- Live Site URL: [QR-code GitHub Live website](https://otomazra.github.io/QR-code)
 
 ### Built with
 
