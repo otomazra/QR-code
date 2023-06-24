@@ -20,7 +20,8 @@ This is a Qr code web page where you can scan qr code by your phone and enter th
 
 ### Links
 
-- Solution URL: [GitHub](https://otomazra.github.io/QR-code)
+- Solution URL: [GitHub](https://github.com/otomazra/QR-code)
+- Live Site URL: [GitHub](https://otomazra.github.io/QR-code)
 
 ### Built with
 
