@@ -20,7 +20,7 @@ This is a Qr code web page where you can scan qr code by your phone and enter th
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://otomazra.github.io/QR-code)
+- Solution URL: [GitHub](https://otomazra.github.io/QR-code)
 
 ### Built with
 
@@ -36,6 +36,6 @@ I trained my css flexbox skills.
 
 ## Author
 
-- Website - [Add your name here](https://otomazra.github.io/personal-website-bootstrap)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/otomazra)
+- Website - [Otar Mazrashvili](https://otomazra.github.io/personal-website-bootstrap)
+- Frontend Mentor - [@otomazra](https://www.frontendmentor.io/profile/otomazra)
 
